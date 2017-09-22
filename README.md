@@ -69,7 +69,7 @@ Count  Group
 
 $ `grep -E "(ZMPBA|ZMPIL|ZMPJA) fang_et_al_genotypes.txt > teosinte_genotypes.txt`
 
-$ `grep -E "(ZMMIL|ZMMLR|ZMMMR) fang_et_al_genotypes.txt > teosinte_genotypes.txt`
+$ `grep -E "(ZMMIL|ZMMLR|ZMMMR) fang_et_al_genotypes.txt > maize_genotypes.txt`
 
 $ `grep -v -E "(ZMMIL|ZMMLR|ZMMMR|ZMPBA|ZMPIL|ZMPJA) fang_et_al_genotypes.txt > tripsacum_genotypes.txt `
 
